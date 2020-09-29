@@ -1,2 +1,3 @@
 # basic-bootstrap4-project
-Very basic website that displays a basic understand of the Bootstrap4 framework
+
+In this project, I have demonstrated my knowledge of the Bootstrap4 framework by making use of components like navbars and jumbotrons while also using Bootstrap's grid system to create a resizable webpage, that looks good no matter what the screen size is.
